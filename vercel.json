@@ -1,0 +1,3 @@
+{
+  "functions": { "api/grade.js": { "maxDuration": 60 } }
+}
